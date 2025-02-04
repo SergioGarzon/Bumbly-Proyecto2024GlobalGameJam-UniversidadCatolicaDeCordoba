@@ -8,6 +8,8 @@
 <hr />
 <br />
 
+<img src="/Assets/Resources/Images/Icon/proto-logo.png" />
+
 # Bumbly:
 
 Se trata de Bumbly, un personaje que por causa de la ansiedad social pierde motivación y energía para relacionarse con sus vínculos, lo cual lo lleva a aislarse en su burbuja. Para salir de esta sensación, deberá esforzarse por buscar a otras personas que también habitan su propia burbuja para juntos romper las barreras que los asfixia y compartir en comunidad.
