@@ -1,10 +1,10 @@
-Bumbly:
+# Bumbly:
 
 Se trata de Bumbly, un personaje que por causa de la ansiedad social pierde motivación y energía para relacionarse con sus vínculos, lo cual lo lleva a aislarse en su burbuja. Para salir de esta sensación, deberá esforzarse por buscar a otras personas que también habitan su propia burbuja para juntos romper las barreras que los asfixia y compartir en comunidad.
 
 En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas, sorteando las dificultades del camino, encontrando las personas aisladas en distintas partes del mapa. Estas personas aportarán sus fragmentos melódicos para formar una canción conjunta que les ayudará a salir de las profundidades.
 
-> Creditos:
+> ### Creditos:
 > 
 > * Gustavo Orellano
 > * Franco Rojas
