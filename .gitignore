@@ -1,0 +1,45 @@
+# Ignore the following folders and files:
+
+# User-specific files
+UserSettings/
+
+# Unity generated files
+[Ll]ibrary/
+[Ll]ogs/
+Temp/
+Obj/
+Build/
+Builds/
+
+# User preferences
+.vscode/
+.idea/
+
+# Unity cache files
+/.vs/
+*/.vs/
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# User-specific file types
+*.suo
+*.user
+*.userprefs
+
+# Unity Hub
+.config/

@@ -1,0 +1,3770 @@
+fileFormatVersion: 2
+guid: 633f9225ad37cac42a4fb2b5d66b2d9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4618634937720738219
+    second: creditos-fondonegro_0
+  - first:
+      213: -6073229962094554979
+    second: creditos-fondonegro_1
+  - first:
+      213: 3079458254191419446
+    second: creditos-fondonegro_2
+  - first:
+      213: 2215505285588143811
+    second: creditos-fondonegro_3
+  - first:
+      213: -6862481853142110657
+    second: creditos-fondonegro_4
+  - first:
+      213: 6898149479018171189
+    second: creditos-fondonegro_5
+  - first:
+      213: 1353129102204015277
+    second: creditos-fondonegro_6
+  - first:
+      213: -3939585554779013790
+    second: creditos-fondonegro_7
+  - first:
+      213: -2507498391485061180
+    second: creditos-fondonegro_8
+  - first:
+      213: -1282016442395152028
+    second: creditos-fondonegro_9
+  - first:
+      213: -2029685760976343114
+    second: creditos-fondonegro_10
+  - first:
+      213: -6532719664167337091
+    second: creditos-fondonegro_11
+  - first:
+      213: -4430866050540682596
+    second: creditos-fondonegro_12
+  - first:
+      213: -2377033258063866019
+    second: creditos-fondonegro_13
+  - first:
+      213: 575177759725683921
+    second: creditos-fondonegro_14
+  - first:
+      213: -4204038868463783414
+    second: creditos-fondonegro_15
+  - first:
+      213: 3974144114886493946
+    second: creditos-fondonegro_16
+  - first:
+      213: 5174114495003531966
+    second: creditos-fondonegro_17
+  - first:
+      213: -3219113497174863178
+    second: creditos-fondonegro_18
+  - first:
+      213: -8366165990374135609
+    second: creditos-fondonegro_19
+  - first:
+      213: 4897717555494511677
+    second: creditos-fondonegro_20
+  - first:
+      213: -2655907381828731437
+    second: creditos-fondonegro_21
+  - first:
+      213: 8020754337426582709
+    second: creditos-fondonegro_22
+  - first:
+      213: 2747820511370459254
+    second: creditos-fondonegro_23
+  - first:
+      213: 2861767146680436505
+    second: creditos-fondonegro_24
+  - first:
+      213: 2574474492611822562
+    second: creditos-fondonegro_25
+  - first:
+      213: 530781749604351663
+    second: creditos-fondonegro_26
+  - first:
+      213: -6115585503774063744
+    second: creditos-fondonegro_27
+  - first:
+      213: 191752642223283852
+    second: creditos-fondonegro_28
+  - first:
+      213: -5668840691118373748
+    second: creditos-fondonegro_29
+  - first:
+      213: 3288685271820040061
+    second: creditos-fondonegro_30
+  - first:
+      213: 5408653932192829703
+    second: creditos-fondonegro_31
+  - first:
+      213: 96882393004403199
+    second: creditos-fondonegro_32
+  - first:
+      213: 176538227408630180
+    second: creditos-fondonegro_33
+  - first:
+      213: 3801040006409822499
+    second: creditos-fondonegro_34
+  - first:
+      213: 1314436624494839572
+    second: creditos-fondonegro_35
+  - first:
+      213: -4752771851297318845
+    second: creditos-fondonegro_36
+  - first:
+      213: 1454741250056877701
+    second: creditos-fondonegro_37
+  - first:
+      213: -7174279776891995509
+    second: creditos-fondonegro_38
+  - first:
+      213: -3859601739125441095
+    second: creditos-fondonegro_39
+  - first:
+      213: -3749840071615190899
+    second: creditos-fondonegro_40
+  - first:
+      213: 2687068638174620434
+    second: creditos-fondonegro_41
+  - first:
+      213: 2609373596293727541
+    second: creditos-fondonegro_42
+  - first:
+      213: 7281858404115665814
+    second: creditos-fondonegro_43
+  - first:
+      213: -6974081167729700623
+    second: creditos-fondonegro_44
+  - first:
+      213: -2308918420369507829
+    second: creditos-fondonegro_45
+  - first:
+      213: -6264347703387093565
+    second: creditos-fondonegro_46
+  - first:
+      213: 6209642821058876968
+    second: creditos-fondonegro_47
+  - first:
+      213: -5138166352235156829
+    second: creditos-fondonegro_48
+  - first:
+      213: -5580220183182828019
+    second: creditos-fondonegro_49
+  - first:
+      213: 2108174208864046180
+    second: creditos-fondonegro_50
+  - first:
+      213: -652432710241155441
+    second: creditos-fondonegro_51
+  - first:
+      213: 4437912554043300383
+    second: creditos-fondonegro_52
+  - first:
+      213: -4433754172738250053
+    second: creditos-fondonegro_53
+  - first:
+      213: -682825423263249240
+    second: creditos-fondonegro_54
+  - first:
+      213: 460266648877297634
+    second: creditos-fondonegro_55
+  - first:
+      213: -7169670257462180044
+    second: creditos-fondonegro_56
+  - first:
+      213: 112798679930178359
+    second: creditos-fondonegro_57
+  - first:
+      213: -5327175351508401487
+    second: creditos-fondonegro_58
+  - first:
+      213: 7868970112544940863
+    second: creditos-fondonegro_59
+  - first:
+      213: 3441860118378635914
+    second: creditos-fondonegro_60
+  - first:
+      213: -6017833888858653422
+    second: creditos-fondonegro_61
+  - first:
+      213: 2920497316605135356
+    second: creditos-fondonegro_62
+  - first:
+      213: -5149026370497474863
+    second: creditos-fondonegro_63
+  - first:
+      213: -5397666513084485061
+    second: creditos-fondonegro_64
+  - first:
+      213: -6585307386383974087
+    second: creditos-fondonegro_65
+  - first:
+      213: 3819985076255904495
+    second: creditos-fondonegro_66
+  - first:
+      213: 7668243750536677169
+    second: creditos-fondonegro_67
+  - first:
+      213: -1341387186454416243
+    second: creditos-fondonegro_68
+  - first:
+      213: -5344450592969539788
+    second: creditos-fondonegro_69
+  - first:
+      213: 868784854160301924
+    second: creditos-fondonegro_70
+  - first:
+      213: -9189065383018532026
+    second: creditos-fondonegro_71
+  - first:
+      213: 2092322864807820413
+    second: creditos-fondonegro_72
+  - first:
+      213: -847630367815672987
+    second: creditos-fondonegro_73
+  - first:
+      213: 915003138738464430
+    second: creditos-fondonegro_74
+  - first:
+      213: -3838517029437735739
+    second: creditos-fondonegro_75
+  - first:
+      213: -9220687589164802063
+    second: creditos-fondonegro_76
+  - first:
+      213: -8682537407286291602
+    second: creditos-fondonegro_77
+  - first:
+      213: -3389619817778872441
+    second: creditos-fondonegro_78
+  - first:
+      213: 5624013524499796813
+    second: creditos-fondonegro_79
+  - first:
+      213: -8103262055255733816
+    second: creditos-fondonegro_80
+  - first:
+      213: -42563679464922059
+    second: creditos-fondonegro_81
+  - first:
+      213: 1689924272069823757
+    second: creditos-fondonegro_82
+  - first:
+      213: -4727941802196491158
+    second: creditos-fondonegro_83
+  - first:
+      213: -706352453189471737
+    second: creditos-fondonegro_84
+  - first:
+      213: 7708942295806418885
+    second: creditos-fondonegro_85
+  - first:
+      213: -1889566254681671712
+    second: creditos-fondonegro_86
+  - first:
+      213: -8064817261664158449
+    second: creditos-fondonegro_87
+  - first:
+      213: -7296458210716501846
+    second: creditos-fondonegro_88
+  - first:
+      213: 4425735610526730292
+    second: creditos-fondonegro_89
+  - first:
+      213: -9086303920510060811
+    second: creditos-fondonegro_90
+  - first:
+      213: 1902380236950007195
+    second: creditos-fondonegro_91
+  - first:
+      213: -4364108255599902926
+    second: creditos-fondonegro_92
+  - first:
+      213: 3060346997790198028
+    second: creditos-fondonegro_93
+  - first:
+      213: -4371342686150759481
+    second: creditos-fondonegro_94
+  - first:
+      213: -1258775795567463470
+    second: creditos-fondonegro_95
+  - first:
+      213: 4286187436760712952
+    second: creditos-fondonegro_96
+  - first:
+      213: -2654088165554276778
+    second: creditos-fondonegro_97
+  - first:
+      213: 2728068136393285625
+    second: creditos-fondonegro_98
+  - first:
+      213: -5689485164823427020
+    second: creditos-fondonegro_99
+  - first:
+      213: 7433351162640407193
+    second: creditos-fondonegro_100
+  - first:
+      213: 73545537456929495
+    second: creditos-fondonegro_101
+  - first:
+      213: -6368078299469098890
+    second: creditos-fondonegro_102
+  - first:
+      213: 3609453360393165991
+    second: creditos-fondonegro_103
+  - first:
+      213: 2498799683236508469
+    second: creditos-fondonegro_104
+  - first:
+      213: 2128566072749748850
+    second: creditos-fondonegro_105
+  - first:
+      213: 3165295929221586360
+    second: creditos-fondonegro_106
+  - first:
+      213: -2238449847411487543
+    second: creditos-fondonegro_107
+  - first:
+      213: 6796986879223048944
+    second: creditos-fondonegro_108
+  - first:
+      213: 6584577435470738434
+    second: creditos-fondonegro_109
+  - first:
+      213: -3690324794195492718
+    second: creditos-fondonegro_110
+  - first:
+      213: -5431043937002629912
+    second: creditos-fondonegro_111
+  - first:
+      213: -2697094173586300000
+    second: creditos-fondonegro_112
+  - first:
+      213: 553576592600347160
+    second: creditos-fondonegro_113
+  - first:
+      213: -1000090797380650050
+    second: creditos-fondonegro_114
+  - first:
+      213: 5340959092472068066
+    second: creditos-fondonegro_115
+  - first:
+      213: 4208084737031075489
+    second: creditos-fondonegro_116
+  - first:
+      213: 1793335122989913868
+    second: creditos-fondonegro_117
+  - first:
+      213: 720460850158381325
+    second: creditos-fondonegro_118
+  - first:
+      213: 7490309750405526477
+    second: creditos-fondonegro_119
+  - first:
+      213: 4639546772910447651
+    second: creditos-fondonegro_120
+  - first:
+      213: 2780523084065589925
+    second: creditos-fondonegro_121
+  - first:
+      213: 5529381695452242484
+    second: creditos-fondonegro_122
+  - first:
+      213: 8742424529594979645
+    second: creditos-fondonegro_123
+  - first:
+      213: -5449747297554719573
+    second: creditos-fondonegro_124
+  - first:
+      213: 6047298047045523163
+    second: creditos-fondonegro_125
+  - first:
+      213: -6419485345586101335
+    second: creditos-fondonegro_126
+  - first:
+      213: -5207099889542334288
+    second: creditos-fondonegro_127
+  - first:
+      213: 7354274645684368581
+    second: creditos-fondonegro_128
+  - first:
+      213: -1457996584941500842
+    second: creditos-fondonegro_129
+  - first:
+      213: 6218707560456833400
+    second: creditos-fondonegro_130
+  - first:
+      213: -7876744275101102011
+    second: creditos-fondonegro_131
+  - first:
+      213: 2100104176558107195
+    second: creditos-fondonegro_132
+  - first:
+      213: -3910095941397177086
+    second: creditos-fondonegro_133
+  - first:
+      213: 313558824786225695
+    second: creditos-fondonegro_134
+  - first:
+      213: -7795441021070770615
+    second: creditos-fondonegro_135
+  - first:
+      213: -1250417143666221629
+    second: creditos-fondonegro_136
+  - first:
+      213: -4559884285473590240
+    second: creditos-fondonegro_137
+  - first:
+      213: -4772566278139237393
+    second: creditos-fondonegro_138
+  - first:
+      213: 4331200931024396085
+    second: creditos-fondonegro_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creditos-fondonegro_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 931
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19d0a5100b81040800000000000000
+      internalID: 4618634937720738219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 942
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90581ed68d87bba0800000000000000
+      internalID: -6073229962094554979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1009
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63069bd67fe6cba20800000000000000
+      internalID: 3079458254191419446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 945
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce4b79a15e0fbe10800000000000000
+      internalID: 2215505285588143811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 953
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e66e11d1193c0a0800000000000000
+      internalID: -6862481853142110657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 941
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b8c6837662bbf50800000000000000
+      internalID: 6898149479018171189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 942
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21d10dfb747c210800000000000000
+      internalID: 1353129102204015277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 950
+        width: 10
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26df22d8fc7c359c0800000000000000
+      internalID: -3939585554779013790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 948
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c76bac8f73933dd0800000000000000
+      internalID: -2507498391485061180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 910
+        width: 302
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b3da86dc553ee0800000000000000
+      internalID: -1282016442395152028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 764
+        width: 29
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf265bdd8b15d3e0800000000000000
+      internalID: -2029685760976343114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 751
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73c818c31e1755a0800000000000000
+      internalID: -6532719664167337091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 756
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c924f228dc66282c0800000000000000
+      internalID: -4430866050540682596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 793
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5750d988d4130fd0800000000000000
+      internalID: -2377033258063866019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 753
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4872300217bf700800000000000000
+      internalID: 575177759725683921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 749
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02f74f4ce048a5c0800000000000000
+      internalID: -4204038868463783414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 758
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6c40e340ff62730800000000000000
+      internalID: 3974144114886493946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 752
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba92e538b52ec740800000000000000
+      internalID: 5174114495003531966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 754
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b21a3574596353d0800000000000000
+      internalID: -3219113497174863178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 765
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8abcb8b5865eb80800000000000000
+      internalID: -8366165990374135609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_20
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 762
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e171ea2038f340800000000000000
+      internalID: 4897717555494511677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 764
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb2cdce42542bd0800000000000000
+      internalID: -2655907381828731437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 768
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc2cf8f2917f4f60800000000000000
+      internalID: 8020754337426582709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 768
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b4ce4238322620800000000000000
+      internalID: 2747820511370459254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 767
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91745cfbe0a07b720800000000000000
+      internalID: 2861767146680436505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 773
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e38e6f29ee5ab320800000000000000
+      internalID: 2574474492611822562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 774
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae7d666037bd5700800000000000000
+      internalID: 530781749604351663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_27
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 770
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083c406d263112ba0800000000000000
+      internalID: -6115585503774063744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 769
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e167c130e39a200800000000000000
+      internalID: 191752642223283852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 771
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c840c9d1d6b3451b0800000000000000
+      internalID: -5668840691118373748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 776
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7774ec94d1c3ad20800000000000000
+      internalID: 3288685271820040061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 772
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7019f5558166f0b40800000000000000
+      internalID: 5408653932192829703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 727
+        width: 697
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9640ce502385100800000000000000
+      internalID: 96882393004403199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 757
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f7fd1590337200800000000000000
+      internalID: 176538227408630180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 759
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3212b1f3fb100c430800000000000000
+      internalID: 3801040006409822499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 619
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41747c25521dd3210800000000000000
+      internalID: 1314436624494839572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_36
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 615
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34892f8be23ca0eb0800000000000000
+      internalID: -4752771851297318845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 612
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867fb99577403410800000000000000
+      internalID: 1454741250056877701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_38
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 628
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a751bcd86df6c90800000000000000
+      internalID: -7174279776891995509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_39
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 623
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb2f4daa0ff6ac0800000000000000
+      internalID: -3859601739125441095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_40
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 622
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e9d68254e5fbc0800000000000000
+      internalID: -3749840071615190899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_41
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 629
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bad7190b26a4520800000000000000
+      internalID: 2687068638174620434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_42
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 674
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350f55f57b563420800000000000000
+      internalID: 2609373596293727541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 619
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693d10a33ab5e0560800000000000000
+      internalID: 7281858404115665814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_44
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 619
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0dab2d026173f90800000000000000
+      internalID: -6974081167729700623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 658
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af48a0ee215ffd0800000000000000
+      internalID: -2308918420369507829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 622
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5041624f09019a0800000000000000
+      internalID: -6264347703387093565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_47
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 613
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d443ee351d2650800000000000000
+      internalID: 6209642821058876968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_48
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 622
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaa8220de091b8b0800000000000000
+      internalID: -5138166352235156829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_49
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 619
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e1ce40f431f82b0800000000000000
+      internalID: -5580220183182828019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 626
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4bfbf54db14d10800000000000000
+      internalID: 2108174208864046180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_51
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 629
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f860b3228e712f6f0800000000000000
+      internalID: -652432710241155441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_52
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 619
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5fff64f1a69d30800000000000000
+      internalID: 4437912554043300383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_53
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 515
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad78822142872c0800000000000000
+      internalID: -4433754172738250053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_54
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 501
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acc9c235ed1686f0800000000000000
+      internalID: -682825423263249240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_55
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 575
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef6a4c1412336600800000000000000
+      internalID: 460266648877297634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 523
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437884b23e6308c90800000000000000
+      internalID: -7169670257462180044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_57
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 514
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b0f504dcdb09100800000000000000
+      internalID: 112798679930178359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 512
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2002d0e321216b0800000000000000
+      internalID: -5327175351508401487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_59
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 517
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33286230a2343d60800000000000000
+      internalID: 7868970112544940863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_60
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 518
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82ea8aba81f3cf20800000000000000
+      internalID: 3441860118378635914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_61
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 514
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21db54146fb5c7ca0800000000000000
+      internalID: -6017833888858653422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_62
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 513
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90bb306d0b78820800000000000000
+      internalID: 2920497316605135356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_63
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 523
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0167fbcbfa88b0800000000000000
+      internalID: -5149026370497474863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_64
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 524
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f39787e2a715b0800000000000000
+      internalID: -5397666513084485061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_65
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 416
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931c3d192d94c94a0800000000000000
+      internalID: -6585307386383974087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 420
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d68d0030530530800000000000000
+      internalID: 3819985076255904495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_67
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 423
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13709d120131b6a60800000000000000
+      internalID: 7668243750536677169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 424
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84bf1df57f626de0800000000000000
+      internalID: -1341387186454416243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 428
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fbc667082b4d5b0800000000000000
+      internalID: -5344450592969539788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_70
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 424
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fd67ac83b8e0c00800000000000000
+      internalID: 868784854160301924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_71
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 432
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643775b48b1e97080800000000000000
+      internalID: -9189065383018532026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 427
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c3c485f8c690d10800000000000000
+      internalID: 2092322864807820413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_73
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 431
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b5381ebac9c34f0800000000000000
+      internalID: -847630367815672987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_74
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 428
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6afdcb18eb2bc00800000000000000
+      internalID: 915003138738464430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_75
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 431
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc731c5919dabac0800000000000000
+      internalID: -3838517029437735739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_76
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 422
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9afead79890080800000000000000
+      internalID: -9220687589164802063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_77
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 427
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63d8a9ea3e618780800000000000000
+      internalID: -8682537407286291602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_78
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 426
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f7aa51cb6a5f0d0800000000000000
+      internalID: -3389619817778872441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_79
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 434
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439dc3d0828c0e40800000000000000
+      internalID: 5624013524499796813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_80
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 332
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9849af71e6b8f80800000000000000
+      internalID: -8103262055255733816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_81
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 337
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534e82d1f88c86ff0800000000000000
+      internalID: -42563679464922059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_82
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 372
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d480efb21d37710800000000000000
+      internalID: 1689924272069823757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_83
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 382
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64ab590bf9f26eb0800000000000000
+      internalID: -4727941802196491158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_84
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 336
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7027a6daf288236f0800000000000000
+      internalID: -706352453189471737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_85
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 340
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf968f9c2aabfa60800000000000000
+      internalID: 7708942295806418885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_86
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 336
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e73222b089e6c5e0800000000000000
+      internalID: -1889566254681671712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_87
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 343
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db1140e63041090800000000000000
+      internalID: -8064817261664158449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_88
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 342
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8b2c76ae5cdba90800000000000000
+      internalID: -7296458210716501846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_89
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 323
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4380e37d61f5b6d30800000000000000
+      internalID: 4425735610526730292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_90
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 335
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f632c0c9b6f6e180800000000000000
+      internalID: -9086303920510060811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_91
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 342
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9de02b0fbc966a10800000000000000
+      internalID: 1902380236950007195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_92
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 342
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f3e9fd9a29f63c0800000000000000
+      internalID: -4364108255599902926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_93
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 330
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c7bc4169887a20800000000000000
+      internalID: 3060346997790198028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_94
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 331
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb6b70ccfed553c0800000000000000
+      internalID: -4371342686150759481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_95
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 248
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3775d451ee78ee0800000000000000
+      internalID: -1258775795567463470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 291
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f64dd8b3c89b7b30800000000000000
+      internalID: 4286187436760712952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_97
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 231
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b19910e8ca2bd0800000000000000
+      internalID: -2654088165554276778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_98
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff98c0248b0cd520800000000000000
+      internalID: 2728068136393285625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_99
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 301
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43848d30363ea01b0800000000000000
+      internalID: -5689485164823427020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_100
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 259
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a1be3bf71982760800000000000000
+      internalID: 7433351162640407193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_101
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 269
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da7fe2d649450100800000000000000
+      internalID: 73545537456929495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_102
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 267
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705542b68a00a7a0800000000000000
+      internalID: -6368078299469098890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_103
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac139325ba571230800000000000000
+      internalID: 3609453360393165991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_104
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 267
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533bb2c92158da220800000000000000
+      internalID: 2498799683236508469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_105
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 259
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2727237c09f2a8d10800000000000000
+      internalID: 2128566072749748850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_106
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 265
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd1e3e80e36deb20800000000000000
+      internalID: 3165295929221586360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_107
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 175
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc28d39bd6fe0e0800000000000000
+      internalID: -2238449847411487543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_108
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 186
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa41ffd8fb35e50800000000000000
+      internalID: 6796986879223048944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_109
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 190
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204394d7a4e116b50800000000000000
+      internalID: 6584577435470738434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_110
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 170
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904920e62559ccc0800000000000000
+      internalID: -3690324794195492718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_111
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 218
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e45b6f605e01a4b0800000000000000
+      internalID: -5431043937002629912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_112
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 192
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3ec91932ff19ad0800000000000000
+      internalID: -2697094173586300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_113
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 190
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8123aed5af2bea700800000000000000
+      internalID: 553576592600347160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_114
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 193
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb3dfee7b6fe12f0800000000000000
+      internalID: -1000090797380650050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_115
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 192
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b0ba3ff5ee1a40800000000000000
+      internalID: 5340959092472068066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_116
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 188
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6fa7fd5ce166a30800000000000000
+      internalID: 4208084737031075489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_117
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 192
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c079b09fac433e810800000000000000
+      internalID: 1793335122989913868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_118
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 191
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09244873579ff900800000000000000
+      internalID: 720460850158381325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_119
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f09a580de2f760800000000000000
+      internalID: 7490309750405526477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_120
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 204
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c1326653bf26040800000000000000
+      internalID: 4639546772910447651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_121
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 118
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aac08b5307669620800000000000000
+      internalID: 2780523084065589925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_122
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 129
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4326af82b5f4cbc40800000000000000
+      internalID: 5529381695452242484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_123
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 172
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359b225ac4535970800000000000000
+      internalID: 8742424529594979645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_124
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 120
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac1b95f4bb9e54b0800000000000000
+      internalID: -5449747297554719573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_125
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 113
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6df09a8815ce350800000000000000
+      internalID: 6047298047045523163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_126
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 159
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c38f071869e6a0800000000000000
+      internalID: -6419485345586101335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_127
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 150
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b87ad52d3aacb7b0800000000000000
+      internalID: -5207099889542334288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_128
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 126
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4bdac53d1af0660800000000000000
+      internalID: 7354274645684368581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_129
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 147
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65644dea4d724cbe0800000000000000
+      internalID: -1457996584941500842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_130
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 105
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c01ff3994d4650800000000000000
+      internalID: 6218707560456833400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_131
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 120
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d10880de20b290800000000000000
+      internalID: -7876744275101102011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 118
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a6f0b2f91152d10800000000000000
+      internalID: 2100104176558107195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_133
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 118
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1357357c8cb9c0800000000000000
+      internalID: -3910095941397177086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_134
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 117
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a629ff61cf95400800000000000000
+      internalID: 313558824786225695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_135
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 121
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e719f71b701d390800000000000000
+      internalID: -7795441021070770615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_136
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 118
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd57ba9b30a5aee0800000000000000
+      internalID: -1250417143666221629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_137
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 117
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f573d66908b0c0800000000000000
+      internalID: -4559884285473590240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_138
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 146
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feba084914074cdb0800000000000000
+      internalID: -4772566278139237393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creditos-fondonegro_139
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 77
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fdc809c448b1c30800000000000000
+      internalID: 4331200931024396085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      creditos-fondonegro_0: 4618634937720738219
+      creditos-fondonegro_1: -6073229962094554979
+      creditos-fondonegro_10: -2029685760976343114
+      creditos-fondonegro_100: 7433351162640407193
+      creditos-fondonegro_101: 73545537456929495
+      creditos-fondonegro_102: -6368078299469098890
+      creditos-fondonegro_103: 3609453360393165991
+      creditos-fondonegro_104: 2498799683236508469
+      creditos-fondonegro_105: 2128566072749748850
+      creditos-fondonegro_106: 3165295929221586360
+      creditos-fondonegro_107: -2238449847411487543
+      creditos-fondonegro_108: 6796986879223048944
+      creditos-fondonegro_109: 6584577435470738434
+      creditos-fondonegro_11: -6532719664167337091
+      creditos-fondonegro_110: -3690324794195492718
+      creditos-fondonegro_111: -5431043937002629912
+      creditos-fondonegro_112: -2697094173586300000
+      creditos-fondonegro_113: 553576592600347160
+      creditos-fondonegro_114: -1000090797380650050
+      creditos-fondonegro_115: 5340959092472068066
+      creditos-fondonegro_116: 4208084737031075489
+      creditos-fondonegro_117: 1793335122989913868
+      creditos-fondonegro_118: 720460850158381325
+      creditos-fondonegro_119: 7490309750405526477
+      creditos-fondonegro_12: -4430866050540682596
+      creditos-fondonegro_120: 4639546772910447651
+      creditos-fondonegro_121: 2780523084065589925
+      creditos-fondonegro_122: 5529381695452242484
+      creditos-fondonegro_123: 8742424529594979645
+      creditos-fondonegro_124: -5449747297554719573
+      creditos-fondonegro_125: 6047298047045523163
+      creditos-fondonegro_126: -6419485345586101335
+      creditos-fondonegro_127: -5207099889542334288
+      creditos-fondonegro_128: 7354274645684368581
+      creditos-fondonegro_129: -1457996584941500842
+      creditos-fondonegro_13: -2377033258063866019
+      creditos-fondonegro_130: 6218707560456833400
+      creditos-fondonegro_131: -7876744275101102011
+      creditos-fondonegro_132: 2100104176558107195
+      creditos-fondonegro_133: -3910095941397177086
+      creditos-fondonegro_134: 313558824786225695
+      creditos-fondonegro_135: -7795441021070770615
+      creditos-fondonegro_136: -1250417143666221629
+      creditos-fondonegro_137: -4559884285473590240
+      creditos-fondonegro_138: -4772566278139237393
+      creditos-fondonegro_139: 4331200931024396085
+      creditos-fondonegro_14: 575177759725683921
+      creditos-fondonegro_15: -4204038868463783414
+      creditos-fondonegro_16: 3974144114886493946
+      creditos-fondonegro_17: 5174114495003531966
+      creditos-fondonegro_18: -3219113497174863178
+      creditos-fondonegro_19: -8366165990374135609
+      creditos-fondonegro_2: 3079458254191419446
+      creditos-fondonegro_20: 4897717555494511677
+      creditos-fondonegro_21: -2655907381828731437
+      creditos-fondonegro_22: 8020754337426582709
+      creditos-fondonegro_23: 2747820511370459254
+      creditos-fondonegro_24: 2861767146680436505
+      creditos-fondonegro_25: 2574474492611822562
+      creditos-fondonegro_26: 530781749604351663
+      creditos-fondonegro_27: -6115585503774063744
+      creditos-fondonegro_28: 191752642223283852
+      creditos-fondonegro_29: -5668840691118373748
+      creditos-fondonegro_3: 2215505285588143811
+      creditos-fondonegro_30: 3288685271820040061
+      creditos-fondonegro_31: 5408653932192829703
+      creditos-fondonegro_32: 96882393004403199
+      creditos-fondonegro_33: 176538227408630180
+      creditos-fondonegro_34: 3801040006409822499
+      creditos-fondonegro_35: 1314436624494839572
+      creditos-fondonegro_36: -4752771851297318845
+      creditos-fondonegro_37: 1454741250056877701
+      creditos-fondonegro_38: -7174279776891995509
+      creditos-fondonegro_39: -3859601739125441095
+      creditos-fondonegro_4: -6862481853142110657
+      creditos-fondonegro_40: -3749840071615190899
+      creditos-fondonegro_41: 2687068638174620434
+      creditos-fondonegro_42: 2609373596293727541
+      creditos-fondonegro_43: 7281858404115665814
+      creditos-fondonegro_44: -6974081167729700623
+      creditos-fondonegro_45: -2308918420369507829
+      creditos-fondonegro_46: -6264347703387093565
+      creditos-fondonegro_47: 6209642821058876968
+      creditos-fondonegro_48: -5138166352235156829
+      creditos-fondonegro_49: -5580220183182828019
+      creditos-fondonegro_5: 6898149479018171189
+      creditos-fondonegro_50: 2108174208864046180
+      creditos-fondonegro_51: -652432710241155441
+      creditos-fondonegro_52: 4437912554043300383
+      creditos-fondonegro_53: -4433754172738250053
+      creditos-fondonegro_54: -682825423263249240
+      creditos-fondonegro_55: 460266648877297634
+      creditos-fondonegro_56: -7169670257462180044
+      creditos-fondonegro_57: 112798679930178359
+      creditos-fondonegro_58: -5327175351508401487
+      creditos-fondonegro_59: 7868970112544940863
+      creditos-fondonegro_6: 1353129102204015277
+      creditos-fondonegro_60: 3441860118378635914
+      creditos-fondonegro_61: -6017833888858653422
+      creditos-fondonegro_62: 2920497316605135356
+      creditos-fondonegro_63: -5149026370497474863
+      creditos-fondonegro_64: -5397666513084485061
+      creditos-fondonegro_65: -6585307386383974087
+      creditos-fondonegro_66: 3819985076255904495
+      creditos-fondonegro_67: 7668243750536677169
+      creditos-fondonegro_68: -1341387186454416243
+      creditos-fondonegro_69: -5344450592969539788
+      creditos-fondonegro_7: -3939585554779013790
+      creditos-fondonegro_70: 868784854160301924
+      creditos-fondonegro_71: -9189065383018532026
+      creditos-fondonegro_72: 2092322864807820413
+      creditos-fondonegro_73: -847630367815672987
+      creditos-fondonegro_74: 915003138738464430
+      creditos-fondonegro_75: -3838517029437735739
+      creditos-fondonegro_76: -9220687589164802063
+      creditos-fondonegro_77: -8682537407286291602
+      creditos-fondonegro_78: -3389619817778872441
+      creditos-fondonegro_79: 5624013524499796813
+      creditos-fondonegro_8: -2507498391485061180
+      creditos-fondonegro_80: -8103262055255733816
+      creditos-fondonegro_81: -42563679464922059
+      creditos-fondonegro_82: 1689924272069823757
+      creditos-fondonegro_83: -4727941802196491158
+      creditos-fondonegro_84: -706352453189471737
+      creditos-fondonegro_85: 7708942295806418885
+      creditos-fondonegro_86: -1889566254681671712
+      creditos-fondonegro_87: -8064817261664158449
+      creditos-fondonegro_88: -7296458210716501846
+      creditos-fondonegro_89: 4425735610526730292
+      creditos-fondonegro_9: -1282016442395152028
+      creditos-fondonegro_90: -9086303920510060811
+      creditos-fondonegro_91: 1902380236950007195
+      creditos-fondonegro_92: -4364108255599902926
+      creditos-fondonegro_93: 3060346997790198028
+      creditos-fondonegro_94: -4371342686150759481
+      creditos-fondonegro_95: -1258775795567463470
+      creditos-fondonegro_96: 4286187436760712952
+      creditos-fondonegro_97: -2654088165554276778
+      creditos-fondonegro_98: 2728068136393285625
+      creditos-fondonegro_99: -5689485164823427020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
