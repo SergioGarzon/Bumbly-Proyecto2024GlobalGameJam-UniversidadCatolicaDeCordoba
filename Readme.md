@@ -1,6 +1,7 @@
-<img src="/Assets/Resources/Images/Flags/Spain.png" />
+<img src="/Assets/Resources/Images/Flags/Spain.png" width=25px height=25px />
 **Español**
 
+<hr />
 <br />
 
 # Bumbly:
@@ -28,10 +29,24 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 
 * Link GGJ 2025: <a href="https://globalgamejam.org/games/2025/bumbly-5">Bumbly en la pagina de la Global Game Jam 2025</a>
 
+<hr />
+<br />
 
-<img src="/Assets/Resources/Images/Flags/UnitedKingdom.png" />
+<img src="/Assets/Resources/Images/Flags/UnitedKingdom.png"  width=25px height=25px />
 **English**
 
 <br />
+
+# Bumbly:
+
+> ### Credits:
+> 
+> * Gustavo Orellano
+> * Franco Rojas
+> * Nicolas De La Cruz
+> * Sergio Garzon
+> * Julian Medrano
+> * Tobias Gencarelli
+> * Camilo Gencarelli
 
 
