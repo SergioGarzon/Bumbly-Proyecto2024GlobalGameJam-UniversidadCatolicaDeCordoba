@@ -4,14 +4,14 @@ Se trata de Bumbly, un personaje que por causa de la ansiedad social pierde moti
 
 En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas, sorteando las dificultades del camino, encontrando las personas aisladas en distintas partes del mapa. Estas personas aportarán sus fragmentos melódicos para formar una canción conjunta que les ayudará a salir de las profundidades.
 
-| Creditos:
-| 
-| * Gustavo Orellano
-| * Franco Rojas
-| * Nicolas De La Cruz
-| * Sergio Garzon
-| * Tobias Gencarelli
-| * Camilo Gencarelli
+> Creditos:
+> 
+> * Gustavo Orellano
+> * Franco Rojas
+> * Nicolas De La Cruz
+> * Sergio Garzon
+> * Tobias Gencarelli
+> * Camilo Gencarelli
 
 <br />
 
