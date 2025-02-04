@@ -10,6 +10,7 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 > * Franco Rojas
 > * Nicolas De La Cruz
 > * Sergio Garzon
+> * Julian Medrano
 > * Tobias Gencarelli
 > * Camilo Gencarelli
 
