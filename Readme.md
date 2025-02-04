@@ -1,5 +1,9 @@
-<img src="/Assets/Resources/Images/Flags/Spain.png" width=25px height=25px />
-**Español**
+<table>
+    <tr>
+        <td><img src="/Assets/Resources/Images/Flags/Spain.png" width=50px height=25px /></td>
+        <td>**Español**</td>
+    </tr>
+</table>
 
 <hr />
 <br />
@@ -32,8 +36,12 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 <hr />
 <br />
 
-<img src="/Assets/Resources/Images/Flags/UnitedKingdom.png"  width=25px height=25px />
-**English**
+<table>
+    <tr>
+        <td><img src="/Assets/Resources/Images/Flags/UnitedKingdom.png"  width=50px  height=25px /></td>
+        <td>**English**</td>
+    </tr>
+</table>
 
 <br />
 
