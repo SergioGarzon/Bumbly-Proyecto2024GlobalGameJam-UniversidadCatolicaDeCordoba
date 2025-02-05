@@ -78,7 +78,7 @@ On their journey, Bumbly must navigate a labyrinthine map of underwater caves, o
 **GamePlay video:**
 
 
-[![Bumbly](https://img.youtube.com/vi/hkGQZiq6mM0/0.jpg)](https://www.youtube.com/playlist?list=PLViNbzdNIbHCnlLPp3gz1s_ow3c5wKBfD)
+[![Bumbly](https://img.youtube.com/vi/hkGQZiq6mM0/0.jpg)](https://www.youtube.com/playlist?list=hkGQZiq6mM0)
 
 <br />
 
