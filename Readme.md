@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td><img src="/Assets/Resources/Images/Flags/Spain.png" width=50px height=25px /></td>
-        <td>**Español**</td>
+        <td><b>Español</b></td>
     </tr>
 </table>
 
@@ -41,7 +41,7 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 <table>
     <tr>
         <td><img src="/Assets/Resources/Images/Flags/UnitedKingdom.png"  width=50px  height=25px /></td>
-        <td>**English**</td>
+        <td><b>English</b></td>
     </tr>
 </table>
 
@@ -59,4 +59,21 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 > * Tobias Gencarelli
 > * Camilo Gencarelli
 
+<br />
+
+* Link to download the executable:<a href="https://ggjv4.s3.us-west-1.amazonaws.com/files/games/2025/301415/exec/Bumbly.zip?VersionId=dHcuwZVNIgg3Mt4sR3kd0Hyzyy9HXw6y">Bumbly executable</a> 
+
+* Link to play online: <a href="https://play.unity.com/en/games/aaad4896-56a4-47d6-b483-0f99c8a2749d/bumbly">Bumbly play online</a> 
+
+
+* Link GGJ 2025: <a href="https://globalgamejam.org/games/2025/bumbly-5">Bumbly on the page of Global Game Jam 2025</a>
+
+
+<br />
+
+**Unity version:**
+
+<br />
+
+<img src="/Assets/Resources/Images/Unity version/unity version.png" />
 
