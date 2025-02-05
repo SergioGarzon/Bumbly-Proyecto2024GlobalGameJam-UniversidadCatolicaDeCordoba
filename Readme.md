@@ -18,13 +18,13 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 
 > ### Creditos:
 > 
-> * Gustavo Orellano
-> * Franco Rojas
-> * Nicolas De La Cruz
-> * Sergio Garzon
-> * Julian Medrano
-> * Tobias Gencarelli
-> * Camilo Gencarelli
+> * Gustavo Orellano (Sonidista)
+> * Franco Rojas (Artista 2D y Diseñador del juego)
+> * Nicolas De La Cruz (Programador)
+> * Sergio Garzon (Programador)
+> * Julian Medrano (Artista 2D y Diseñador del juego)
+> * Tobias Gencarelli (Artista 2D y Diseñador del juego)
+> * Camilo Gencarelli (Sonidista)
 
 <br />
 
@@ -49,15 +49,19 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 
 # Bumbly:
 
+This is about Bumbly, a character who, due to social anxiety, loses motivation and energy to interact with their relationships, which leads them to isolate themselves in their bubble. To overcome this feeling, they must make an effort to seek out others who also inhabit their own bubbles, so together they can break the barriers that suffocate them and share in community.
+
+On their journey, Bumbly must navigate a labyrinthine map of underwater caves, overcoming the challenges along the way and finding isolated individuals in different parts of the map. These individuals will contribute their melodic fragments to form a collective song that will help them rise from the depths.
+
 > ### Credits:
 > 
-> * Gustavo Orellano
-> * Franco Rojas
-> * Nicolas De La Cruz
-> * Sergio Garzon
-> * Julian Medrano
-> * Tobias Gencarelli
-> * Camilo Gencarelli
+> * Gustavo Orellano (Soundman)
+> * Franco Rojas (2D Artist and Game Designer)
+> * Nicolas De La Cruz (Programmer)
+> * Sergio Garzon (Programmer)
+> * Julian Medrano (2D Artist and Game Designer)
+> * Tobias Gencarelli (2D Artist and Game Designer)
+> * Camilo Gencarelli (Soundman)
 
 <br />
 
@@ -72,8 +76,6 @@ En su viaje Bumbly deberá atravesar un laberíntico mapa de cavernas submarinas
 <br />
 
 **Unity version:**
-
-<br />
 
 <img src="/Assets/Resources/Images/Unity version/unity version.png" />
 
