@@ -91,53 +91,56 @@ public class BubbleController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collider)
     {
         if (collider.gameObject.CompareTag("AudioJellyfish"))
-        {
-        }
+            audioStartScene.PlayAudio(7);
 
         if (collider.gameObject.CompareTag("AudioNadoPeces"))
-        {
-        }
+            audioStartScene.PlayAudio(6);
 
         if (collider.gameObject.CompareTag("AudioOctopus"))
-        {
-        }
+            audioStartScene.PlayAudio(5);
 
         if (collider.gameObject.CompareTag("AudioTurtle"))
-        {
-        }
+            audioStartScene.PlayAudio(8);
 
 
         if (collider.gameObject.CompareTag("FumarolaArriba"))
         {
             moverArriba();
+            audioStartScene.PlayAudio(4);
         }
 
         if (collider.gameObject.CompareTag("FumarolaAbajo"))
         {
             moverAbajo();
+            audioStartScene.PlayAudio(4);
         }
 
-        if (collider.gameObject.CompareTag("Wall")) // Asegúrate de etiquetar los bordes como "MapEdge"
-        {
-            audioStartScene.AudioStop(2);
-        }
     }
 
     void OnTriggerExit2D(Collider2D collider)
     {
         if (collider.gameObject.CompareTag("AudioJellyfish"))
-        {
-        }
+            audioStartScene.AudioStop(7);
 
         if (collider.gameObject.CompareTag("AudioNadoPeces"))
-        {
-        }
+            audioStartScene.AudioStop(6);
         
         if (collider.gameObject.CompareTag("AudioOctopus"))
-        {
-        }
+            audioStartScene.AudioStop(5);
+
         if (collider.gameObject.CompareTag("AudioTurtle"))
+            audioStartScene.AudioStop(8);
+
+        if (collider.gameObject.CompareTag("FumarolaArriba"))
         {
+            moverArriba();
+            audioStartScene.AudioStop(4);
+        }
+        
+        if (collider.gameObject.CompareTag("FumarolaAbajo"))
+        {
+            moverAbajo();
+            audioStartScene.AudioStop(4);
         }
     }
 
