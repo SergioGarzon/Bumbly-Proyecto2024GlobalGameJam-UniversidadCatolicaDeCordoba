@@ -18,7 +18,7 @@ public class BubbleController : MonoBehaviour
 
     public GameObject auxGObject;
     private ChangeQuitScene changeQuitScene;
-    private AudioControl audioControl;
+    private AudiosStartScene audioStartScene;
 
     public Sprite[] spriteBobble;
 
@@ -28,10 +28,9 @@ public class BubbleController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        // auxDestroy = auxGObject.GetComponent<DestroyObjects>();
-
+        
         changeQuitScene = auxGObject.GetComponent<ChangeQuitScene>();
-        audioControl = auxGObject.GetComponent<AudioControl>();
+        audioStartScene = auxGObject.GetComponent<AudiosStartScene>();
 
 
         initialPosition = transform.position; // Guardar la posición inicial
@@ -62,10 +61,19 @@ public class BubbleController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("bobble_collection")) // Asegúrate de etiquetar los bordes como "MapEdge"
         {
-            Destroy(collision.gameObject);
+            
+            audioStartScene.PlayAudio(1);
 
-            audioControl.PlayAudio(1);
+            Destroy(collision.gameObject);
             HandleCollision();
+        }
+
+        if (collision.gameObject.CompareTag("MapEdge")) // Asegúrate de etiquetar los bordes como "MapEdge"
+        {
+            if (collisionCountObject < maxCollisions - 1)
+                audioStartScene.PlayAudio(2);
+            else
+                audioStartScene.PlayAudio(3);
         }
 
         if (collision.gameObject.CompareTag("MapEdge") || collision.gameObject.CompareTag("CollisionJellyfish")
@@ -84,22 +92,18 @@ public class BubbleController : MonoBehaviour
     {
         if (collider.gameObject.CompareTag("AudioJellyfish"))
         {
-            audioControl.PlayAudio(2);
         }
 
         if (collider.gameObject.CompareTag("AudioNadoPeces"))
         {
-            audioControl.PlayAudio(3);
         }
 
         if (collider.gameObject.CompareTag("AudioOctopus"))
         {
-            audioControl.PlayAudio(4);
         }
 
         if (collider.gameObject.CompareTag("AudioTurtle"))
         {
-            audioControl.PlayAudio(5);
         }
 
 
@@ -112,27 +116,28 @@ public class BubbleController : MonoBehaviour
         {
             moverAbajo();
         }
+
+        if (collider.gameObject.CompareTag("Wall")) // Asegúrate de etiquetar los bordes como "MapEdge"
+        {
+            audioStartScene.AudioStop(2);
+        }
     }
 
     void OnTriggerExit2D(Collider2D collider)
     {
         if (collider.gameObject.CompareTag("AudioJellyfish"))
         {
-            audioControl.StopAudio(2);
         }
 
         if (collider.gameObject.CompareTag("AudioNadoPeces"))
         {
-            audioControl.StopAudio(3);
         }
         
         if (collider.gameObject.CompareTag("AudioOctopus"))
         {
-            audioControl.StopAudio(4);
         }
         if (collider.gameObject.CompareTag("AudioTurtle"))
         {
-            audioControl.StopAudio(5);
         }
     }
 
@@ -159,28 +164,20 @@ public class BubbleController : MonoBehaviour
             switch (collisionCount)
             {
                 case (1): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[0];
-                            audioControl.volumeBurbuja1();
                             break;
                 case (2): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[1];
-                            audioControl.volumeBurbuja2();
                             break;
                 case (3): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[2];
-                            audioControl.volumeBurbuja3();
                             break;
                 case (4): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[3];
-                            audioControl.volumeBurbuja4();
                             break;
                 case (5): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[4];
-                           audioControl.volumeBurbuja5();
                            break;
                 case (6): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[5];
-                          audioControl.volumeBurbuja6();
                           break;
                 case (7): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[6]; 
-                          audioControl.volumeBurbuja7();
                           break;
                 case (8): gameObject.GetComponent<SpriteRenderer>().sprite = spriteBobble[7]; 
-                          audioControl.volumeBurbuja8();
                           break;
             }
         }
