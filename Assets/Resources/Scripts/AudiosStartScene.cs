@@ -4,10 +4,13 @@ public class AudiosStartScene : MonoBehaviour
 {
     public AudioSource[] audios;
 
+    public AudioVolume audioVolume;
+
     public void PlayAudio(int valor)
     {
         if (audios[valor] != null)
         {
+            audios[valor].volume = (float) audioVolume.volumeLevel;
             audios[valor].Play();
         }
     }
@@ -19,4 +22,5 @@ public class AudiosStartScene : MonoBehaviour
             audios[valor].Stop();
         }
     }
+       
 }

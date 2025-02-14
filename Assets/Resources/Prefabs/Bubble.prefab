@@ -170,6 +170,7 @@ MonoBehaviour:
   verticalSpeed: 3
   buoyancyForce: 1.5
   maxCollisions: 5
+  shrinkFactor: 0.2
   auxGObject: {fileID: 0}
   spriteBobble:
   - {fileID: -6873776386679916371, guid: fb3cab064a302bf4f9798b5c08d1421a, type: 3}
@@ -180,6 +181,7 @@ MonoBehaviour:
   - {fileID: 1976642602730469356, guid: f475654324f4d9340aca8c41b41f2ded, type: 3}
   - {fileID: 3853283829124595400, guid: cbc07f939923b5e4b98505c3b88becb5, type: 3}
   - {fileID: 4776594557016918807, guid: 8efa8e3025c179047a3565c3d30c8b7d, type: 3}
+  collisionParticles: {fileID: 0}
 --- !u!1 &3084631851899246240
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,9 +263,9 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.16, y: 1.15}
+  m_Size: {x: 5.17, y: 4.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
