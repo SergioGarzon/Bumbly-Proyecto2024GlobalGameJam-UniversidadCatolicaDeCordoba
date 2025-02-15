@@ -6172,6 +6172,126 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 3
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 4
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 5
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 6
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 7
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 8
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1851452469}
+        m_TargetAssemblyTypeName: AudiosStartScene, Assembly-CSharp
+        m_MethodName: AudioStop
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 9
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &437110775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28497,6 +28617,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1851452471}
+        m_TargetAssemblyTypeName: PlayAwakeAudios, Assembly-CSharp
+        m_MethodName: PlayAgain
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1644078163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29085,6 +29217,7 @@ GameObject:
   - component: {fileID: 1851452468}
   - component: {fileID: 1851452469}
   - component: {fileID: 1851452470}
+  - component: {fileID: 1851452471}
   m_Layer: 0
   m_Name: AuxGameObject
   m_TagString: Untagged
@@ -29217,6 +29350,21 @@ MonoBehaviour:
   - {fileID: 1246163828}
   - {fileID: 1552827427}
   - {fileID: 1649669129}
+  audioVolume: {fileID: 11400000, guid: d069be8cef948e34484589b5671e2003, type: 2}
+--- !u!114 &1851452471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1851452460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f063320bf42ebcf4e892410c78059b64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audios: {fileID: 210414059}
+  audio2: {fileID: 1738508441}
   audioVolume: {fileID: 11400000, guid: d069be8cef948e34484589b5671e2003, type: 2}
 --- !u!1 &1856642948
 GameObject:
